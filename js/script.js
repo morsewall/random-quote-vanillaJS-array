@@ -1,6 +1,7 @@
 "use strict";
 // alert("Hello! I am an alert box!!");
 
+//defining an array for the quotes
 const quotes = [
     {
         quoteText:"\"Many of you appear concerned that we are wasting valuable lesson time, but I assure you we will go back to school the moment you start listening to science and give us a future.\"",
@@ -98,7 +99,7 @@ function injectQuote() {
   let contentQuote = quoteTextElem + quoteAuthorElem;
   if (contentQuote.length > 280) {
     let charCountAuthor = quoteAuthorElem.length;
-    let extraStylingChar = "..." + '"';
+    const extraStylingChar = "..." + '"';
     let extraCharCount = extraStylingChar.length;
     let subString = quoteTextElem.substring(0, 280 - extraCharCount - charCountAuthor) + extraStylingChar + quoteAuthorElem;
     //generate url available for Twitter intent and inject url on HTML
