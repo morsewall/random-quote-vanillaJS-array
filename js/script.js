@@ -7,7 +7,7 @@ const quotes = [
         quoteAuthor:"Greta ThunbergA"
     },
     {
-        quoteText:"\"I was fortunate to be born in a time and place where everyone told us to dream big; I could become whatever I wanted to. I could live wherever I wanted to. People like me had everything we needed and more. Things our grandparents could not even dream of. We had everything we could ever wish for and yet now we may have nothing. Now we probably don’t even have a future any more.\"",
+        quoteText:"\"I was fortunate to be born in a time and place where everyone told us to dream big. I could become whatever I wanted to. I could live wherever I wanted to. People like me had everything we needed and more. Things our grandparents could not even dream of. We had everything we could ever wish for and yet now we may have nothing. Now we probably don’t even have a future any more.\"",
         quoteAuthor:" Greta Thunberg B"
     },
     {
