@@ -4,7 +4,7 @@
         js = d.createElement(h); js.id = m;
         js.onload = function(){
             window.makerWidgetComInit({
-            position: "left",          
+            position: "right",          
             widget: "vw0qnrt2npfrjgys-sopevuu7m5fk8dp7-lbq2thiby0qeyagf"                
         })};
         js.src = "https://makerwidget.com/js/embed.js";
