@@ -16,15 +16,11 @@ const quotes = [
         quoteAuthor:"Greta Thunberg"
     },
     {
-        quoteText:"\"But perhaps the most dangerous misconception about the climate crisis is that we have to 'lower' our emissions. Because that is far from enough. ... The fact that we are speaking of 'lowering' instead of 'stopping' emissions is perhaps the greatest force behind the continuing business as usual.\"",
+        quoteText:"\"But perhaps the most dangerous misconception about the climate crisis is that we have to \'lower\' our emissions. Because that is far from enough. ... The fact that we are speaking of \'lowering\' instead of \'stopping\' emissions is perhaps the greatest force behind the continuing business as usual.\"",
         quoteAuthor:"Greta Thunberg"
     },
     {
-        quoteText:"\"But perhaps the most dangerous misconception about the climate crisis is that we have to 'lower' our emissions. Because that is far from enough. ... The fact that we are speaking of 'lowering' instead of 'stopping' emissions is perhaps the greatest force behind the continuing business as usual.\"",
-        quoteAuthor:"Greta Thunberg"
-    },
-    {
-        quoteText:"\"We should no longer only ask: 'Have we got enough money to go through with this?' but also: 'Have we got enough of the carbon budget to spare to go through with this?' That should and must become the centre of our new currency.\"",
+        quoteText:"\"We should no longer only ask: \'Have we got enough money to go through with this?\' but also: \'Have we got enough of the carbon budget to spare to go through with this?\' That should and must become the centre of our new currency.\"",
         quoteAuthor:"Greta Thunberg"
     },
     {
