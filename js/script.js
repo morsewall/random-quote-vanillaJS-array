@@ -1,5 +1,4 @@
 "use strict";
-// alert("Hello! I am an alert box!!");
 
 //defining an array for the quotes
 const quotes = [
