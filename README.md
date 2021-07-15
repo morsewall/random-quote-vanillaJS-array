@@ -2,7 +2,7 @@
 
 This is one the the 11 flavors in which this random quote machine is being built.
 
-If you’re curious about the other flavors and would like to make a writer very happy today, you should [join Morse Wall’s newsletter](https://www.morsewall.com/signup).
+If you’re curious about the other flavors and would like to make a writer very happy today, you should [subscribe to Morse Wall](https://www.morsewall.com/signup).
 
 [![Morse wall](morsewall.png)](https://www.morsewall.com)
 
